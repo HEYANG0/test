@@ -1,5 +1,3 @@
-import time
-
 import openpyxl
 from re import findall, search, sub
 
